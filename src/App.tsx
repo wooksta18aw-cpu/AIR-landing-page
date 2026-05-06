@@ -2,7 +2,7 @@ export default function AirLandingPage() {
   const GOOGLE_PLAY_URL =
     'https://play.google.com/store/apps/details?id=app.rork.invoicing_app_0whxrcd&pcampaignid=web_share';
 
-  const APP_STORE_URL = '#';
+  const APP_STORE_URL = 'https://apps.apple.com/gb/app/air-automated-invoice-reminder/id6763616013';
 
   const AndroidIcon = ({ className = 'h-5 w-5' }) => (
     <svg className={className} viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
